@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "tabulator-tables": "^6.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

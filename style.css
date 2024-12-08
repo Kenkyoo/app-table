@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #292e39;
+}
+
+#example-table {
+    max-width: 1000px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    color: white !important;
+}
+
+#example-table .tabulator-tableHolder {
+    background-color: #2e3440 !important;
+}
+
+#example-table .tabulator-header {
+    background-color: #3b4252 !important;
+}
+
+h2 {
+    margin: 20px auto;
+    text-align: center;
+    color: whitesmoke;
+}
